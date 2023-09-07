@@ -1,4 +1,4 @@
-<h1>Palacios Lucas<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer Web Full Stack</a>, <a href="https://www.youtube.com/c/joshmadakor">Programmer Mobile</a></h1>
+<h1>Palacios Lucas<br/><a href="">Programmer</a>, <a href="">Programmer Web Full Stack</a>, <a href="">Programmer Mobile</a></h1>
 
 <h2>👨‍💻 Mobile Development</h2>
 
