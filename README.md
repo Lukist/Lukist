@@ -5,7 +5,7 @@
 - <b>Repair Company Mobile App Practice</b>
   - [RepaairDev](https://github.com/Lukist/RepaairDev.git)
 - <b>Shop Administration Mobile App</b>
-  - [Rincon De Sueños](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Rincon De Sueños](https://github.com/Lukist/Rincon_De_Suenos.git) 
 
 <h2>👨‍💻 Web Development</h2>
 
