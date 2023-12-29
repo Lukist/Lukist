@@ -4,8 +4,8 @@
 
 - <b>Repair Company Mobile App Practice</b>
   - [RepaairDev](https://github.com/Lukist/RepaairDev.git)
-- <b>Shop Administration Mobile App</b>
-  - [Rincon De Sueños](https://github.com/Lukist/Rincon_De_Suenos.git)
+- <b>App for taking notes</b>
+  - [Humming Notes](https://github.com/Lukist/Humming_notes.git)
 - <b>Census fields app</b>
   - [Census_App](https://github.com/Lukist/Censo_App.git) 
 
