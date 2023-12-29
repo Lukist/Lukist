@@ -14,7 +14,3 @@
 - <b>Full Stack Web Page (HTML, CSS, Java, PostgreSQL)</b>
   - [Parque De Diversiones Pagina Web](https://github.com/Lukist/Parque-de-diversiones-full-stack.git)
  
-<h2>👨‍💻 Backend</h2>
-
-- <b>API With CRUD (Python & FastAPI)</b>
-  - [API CRUD with FastApi](https://github.com/Lukist/Parque-de-diversiones-full-stack.git)
